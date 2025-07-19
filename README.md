@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hello, I'm Burak, 23 years old. I am a software developer who is passionate about learning and self-improvement. I've dedicated my life to continuous learning, which led me to choose software development as my path. Currently, I am honing my skills in PHP Laravel. Before this, I worked on projects using ASP.NET Core MVC Web API. You can check out my projects below. Feel free to reach out to me using the links in my profile. Have a great day! :)
+"Hello, I'm Burak, 24 years old. I am a software developer who is passionate about learning and self-improvement. I've dedicated my life to continuous learning, which led me to choose software development as my path. Currently, I am honing my skills in PHP Laravel. Before this, I worked on projects using ASP.NET Core MVC Web API. You can check out my projects below. Feel free to reach out to me using the links in my profile. Have a great day! :)
 
 
 ## 🌐 Socials:
